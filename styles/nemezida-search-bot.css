@@ -1,0 +1,159 @@
+.main {
+    background-color: black;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 40em;
+    width: 88%;
+}
+
+.head {
+    color: wheat;
+    margin-bottom: auto;
+}
+
+
+.section {
+    color: wheat;
+    margin: 0;
+    scroll-margin-top: 2em;
+}
+
+#a { background-color: black; }
+#b { background-color: black; }
+#c { background-color: black; }
+#d { background-color: black; }
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+
+.sticky {
+    background-color: black;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.list-inline {
+    list-style: none;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+    padding: 0;
+    font-size: 16;
+}
+
+.list-inline > li {
+    display: inline-block;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.list-inline > li:before {
+    content: "\200B";
+    position: absolute;
+    font-size: 16px;
+}
+
+.bot-screen {
+    border-radius: 14px;
+    max-width:100%;
+    max-height:100%;
+}
+
+.anchor-top {
+    color: wheat;
+    font-size: 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 700;
+    user-select: none;
+    outline: none;
+    border: none;
+    border-radius: 1px;
+    transition: 0.2s;
+}
+
+.head-point {
+    color: wheat;
+}
+
+.text {
+    color: wheat;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+    text-indent: 25px;
+}
+
+.text-points {
+    color: wheat;
+    font-size: 20px;
+    text-align: left;
+}
+
+.link-to {
+    color: wheat;
+}
+
+.handler-option {
+    background-color:rgb(87, 75, 97);
+    border-left: 6px solid #1bdd82;
+    color: wheat;
+    padding: 10px 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-style: inherit;
+    text-align: left;
+}
+
+.rule {
+    background-color:rgb(75, 90, 97);
+    border-left: 6px solid #ddda1b;
+    color: wheat;
+    padding: 10px 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-style: inherit;
+    text-align: left;
+}
+
+.warning {
+    background-color:rgb(94, 75, 97);
+    border-left: 6px solid #dd1b1b;
+    color: wheat;
+    padding: 10px 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-style: inherit;
+    text-align: left;
+}
+
+
+.footer {
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  text-align: center; 
+  width: 99%;   
+  font-size: 14px;
+  font-weight: bold;
+  color: wheat;
+}
+
+.blank {
+    color: wheat;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+}
+
+.hr-circle {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #333;
+    color: wheat;
+}

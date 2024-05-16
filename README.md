@@ -1,2 +1,2 @@
-# Dextiles-instructions
-Instructions for all Dextiles projects
+# Dextiles - instructions
+### Данный сайт предназначен для хранения инструкций ко всем моим проектам.
