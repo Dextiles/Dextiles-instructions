@@ -18,10 +18,21 @@
     scroll-margin-top: 2em;
 }
 
-#a { background-color: black; }
-#b { background-color: black; }
-#c { background-color: black; }
-#d { background-color: black; }
+#a {
+    background-color: black;
+}
+
+#b {
+    background-color: black;
+}
+
+#c {
+    background-color: black;
+}
+
+#d {
+    background-color: black;
+}
 
 h2 {
     margin: 0;
@@ -44,13 +55,13 @@ h2 {
     font-size: 16;
 }
 
-.list-inline > li {
+.list-inline>li {
     display: inline-block;
     margin-left: 0.5em;
     margin-right: 0.5em;
 }
 
-.list-inline > li:before {
+.list-inline>li:before {
     content: "\200B";
     position: absolute;
     font-size: 16px;
@@ -58,8 +69,8 @@ h2 {
 
 .bot-screen {
     border-radius: 14px;
-    max-width:100%;
-    max-height:100%;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .anchor-top {
@@ -98,7 +109,7 @@ h2 {
 }
 
 .handler-option {
-    background-color:rgb(87, 75, 97);
+    background-color: rgb(87, 75, 97);
     border-left: 6px solid #1bdd82;
     color: wheat;
     padding: 10px 10px;
@@ -109,7 +120,7 @@ h2 {
 }
 
 .rule {
-    background-color:rgb(75, 90, 97);
+    background-color: rgb(75, 90, 97);
     border-left: 6px solid #ddda1b;
     color: wheat;
     padding: 10px 10px;
@@ -120,7 +131,7 @@ h2 {
 }
 
 .warning {
-    background-color:rgb(94, 75, 97);
+    background-color: rgb(94, 75, 97);
     border-left: 6px solid #dd1b1b;
     color: wheat;
     padding: 10px 10px;
@@ -132,14 +143,14 @@ h2 {
 
 
 .footer {
-  background-color: black;
-  position: fixed;
-  bottom: 0;
-  text-align: center; 
-  width: 99%;   
-  font-size: 14px;
-  font-weight: bold;
-  color: wheat;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 99%;
+    font-size: 14px;
+    font-weight: bold;
+    color: wheat;
 }
 
 .blank {
@@ -150,10 +161,10 @@ h2 {
 }
 
 .hr-circle {
-	margin: 20px 0;
-	padding: 0;
-	height: 0;
-	border: none;
-	border-top: 1px solid #333;
+    margin: 20px 0;
+    padding: 0;
+    height: 0;
+    border: none;
+    border-top: 1px solid #333;
     color: wheat;
 }
