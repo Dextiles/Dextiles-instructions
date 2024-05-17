@@ -151,6 +151,7 @@ h2 {
     font-size: 16px;
     font-weight: bold;
     color: wheat;
+    padding-bottom: 15px;
 }
 
 .blank {
@@ -166,4 +167,12 @@ h2 {
     border: none;
     border-top: 1px solid #333;
     color: wheat;
+}
+
+.hr-circle-footer {
+    border: none;
+    border-top: 1px solid #333;
+    color: wheat;
+    margin-block-start: auto;
+    margin-top: auto;
 }
